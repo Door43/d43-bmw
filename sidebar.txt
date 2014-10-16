@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bmw:home|Door43 (bmw)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bmw|d43-bmw repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bmw/archive/master.zip|d43-bmw.zip]]
+
+**Recent Changes**
+{{changes>ns = bmw}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bmw|Ethnologue data]]
+
